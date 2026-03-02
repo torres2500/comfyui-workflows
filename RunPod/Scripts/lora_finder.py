@@ -13,7 +13,7 @@ MODEL_URLS = [
 
     
 
-    "https://civitai.com/models/1874811",
+    "https://civitai.com/models/1395313",
     # "https://civitai.com/models/000000",
     # "https://civitai.com/models/000000",
 

@@ -38,6 +38,37 @@ LORAS = [
         "version_id": "2191446",     # Low Noise - v1.1
         "api_key":    "38681c453aa0a1cdf22e4526c2d9d337",
     },
+   
+    # ── Ultimate DeepThroat I2V Wan2.2 Video LoRa - K3NK (model ID: 1874811) ──
+    {
+        "source":     "civitai",
+        "filename":   "wan22-ultimatedeepthroat-i2v-102epoc-high-k3nk.safetensors",
+        "model_id":   "1874811",       # Ultimate DeepThroat I2V Wan2.2 Video LoRa - K3NK
+        "version_id": "2325788",     # High noise - v1.1
+        "api_key":    "38681c453aa0a1cdf22e4526c2d9d337",
+    },
+    {
+        "source":     "civitai",
+        "filename":   "wan22-ultimatedeepthroat-I2V-101epoc-low-k3nk.safetensors",
+        "model_id":   "1874811",       # Ultimate DeepThroat I2V Wan2.2 Video LoRa - K3NK
+        "version_id": "2191446",     # Low Noise - v1.1
+        "api_key":    "38681c453aa0a1cdf22e4526c2d9d337",
+    },
+    # ── WAN DR34MJOB - Double/Single/Handy Blowjob (model ID: 1395313) ──
+    {
+        "source":     "civitai",
+        "filename":   "DR34MJOB_I2V_14b_LowNoise.safetensors",
+        "model_id":   "1395313",       # WAN DR34MJOB - Double/Single/Handy Blowjob
+        "version_id": "2235288",     # v1.0_I2V_14B_LOW
+        "api_key":    "38681c453aa0a1cdf22e4526c2d9d337",
+    },
+    {
+        "source":     "civitai",
+        "filename":   "DR34MJOB_I2V_14b_HighNoise.safetensors",
+        "model_id":   "1395313",       # WAN DR34MJOB - Double/Single/Handy Blowjob
+        "version_id": "2235299",     # v1.0_I2V_14B_HIGH
+        "api_key":    "38681c453aa0a1cdf22e4526c2d9d337",
+    },
 
 
 
